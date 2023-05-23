@@ -15,7 +15,7 @@ All credits goes to the original course content creator.
 | <li> [x] Day 3 </li> | <li> [ ] Day 13 </li> | <li> [ ] Day 23 </li> | <li> [ ] Day 33 </li> | <li> [ ] Day 43 </li> |
 | <li> [x] Day 4 </li> | <li> [ ] Day 14 </li> | <li> [ ] Day 24 </li> | <li> [ ] Day 34 </li> | <li> [ ] Day 44 </li> |
 | <li> [x] Day 5 </li> | <li> [ ] Day 15 </li> | <li> [ ] Day 25 </li> | <li> [ ] Day 35 </li> | <li> [ ] Day 45 </li> |
-| <li> [ ] Day 6 </li> | <li> [ ] Day 16 </li> | <li> [ ] Day 26 </li> | <li> [ ] Day 36 </li> | <li> [ ] Day 46 </li> |
+| <li> [x] Day 6 </li> | <li> [ ] Day 16 </li> | <li> [ ] Day 26 </li> | <li> [ ] Day 36 </li> | <li> [ ] Day 46 </li> |
 | <li> [ ] Day 7 </li> | <li> [ ] Day 17 </li> | <li> [ ] Day 27 </li> | <li> [ ] Day 37 </li> | <li> [ ] Day 47 </li> |
 | <li> [ ] Day 8 </li> | <li> [ ] Day 18 </li> | <li> [ ] Day 28 </li> | <li> [ ] Day 38 </li> | <li> [ ] Day 48 </li> |
 | <li> [ ] Day 9 </li> | <li> [ ] Day 19 </li> | <li> [ ] Day 29 </li> | <li> [ ] Day 39 </li> | <li> [ ] Day 49 </li> |
